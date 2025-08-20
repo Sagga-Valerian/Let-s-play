@@ -38,7 +38,7 @@ This app provides a simple, fun, and interactive way to play the classic game be
 ---
 
 ## Hosted link 
-* https://github.com/Chukwuka-E/Let-s-Play-/releases/download/v1.0.0/app-debug.apk *
+* https://github.com/Sagga-Valerian/Let-s-play/releases/download/v1.0.0/app-debug.apk*
   
 ## Deployed link 
-* https://github.com/Chukwuka-E/Let-s-Play-.git *
+* https://github.com/Sagga-Valerian/Let-s-play.git) *
