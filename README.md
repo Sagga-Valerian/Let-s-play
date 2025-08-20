@@ -40,5 +40,5 @@ This app provides a simple, fun, and interactive way to play the classic game be
 ## Hosted link 
 * https://github.com/Sagga-Valerian/Let-s-play/releases/download/v1.0.0/app-debug.apk*
   
-## Deployed link 
+## Repository link 
 * https://github.com/Sagga-Valerian/Let-s-play.git) *
